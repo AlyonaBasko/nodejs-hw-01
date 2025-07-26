@@ -18,5 +18,5 @@ export const removeLastContact = async () => {
   }
 };
 
-// Викликаємо функцію
+
 removeLastContact();
